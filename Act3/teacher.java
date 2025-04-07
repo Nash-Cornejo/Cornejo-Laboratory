@@ -1,3 +1,6 @@
+package Act3;
+import Act3.person;
+
 public class teacher extends person{
     private String subject;
  
